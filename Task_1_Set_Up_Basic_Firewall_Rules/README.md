@@ -11,26 +11,27 @@ Set rules to block or allow specific applications or ports.
 - Click on **System and Security**.
 - Select **Windows Defender Firewall** to open the firewall settings.
 
-![Windows Defender Firewall](./images/1.png)
+![](./images/1.png)
 
 ### 2. Access Advanced Settings
 - On the left-hand panel, click on **Advanced Settings**.
 - This opens the **Windows Defender Firewall with Advanced Security** console.
 
-![Advanced Settings](./images/2.png)
+![](./images/2.png)
 
 ### 3. Create Inbound Rules
 
 #### a. Block Specific Ports
 - In the left-hand panel, select **Inbound Rules**.
-- Click on **New Rule...** in the right-hand Actions panel.
+- Click on **New Rule** in the right-hand panel.
+  ![](./images/3.png)
 - Choose **Port** and click **Next**.
-- Select **TCP** or **UDP**, and enter the port number (e.g., 21 for FTP).
+- Select **TCP** or **UDP**, and enter the port number.
 - Click **Next**, select **Block the connection**, and click **Next** again.
 - Choose when the rule should apply (**Domain**, **Private**, **Public**), then click **Next**.
-- Name the rule (e.g., "Block FTP Port 21") and click **Finish** to apply the rule.
+- Name the rule and click **Finish**.
 
-![Block Specific Ports](./images/3.png)
+![](./images/4.png)
 
 #### b. Allow Specific Applications
 - In the left-hand panel, select **Inbound Rules**.
