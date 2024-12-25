@@ -24,7 +24,7 @@ Set rules to block or allow specific applications or ports.
 #### a. Block Specific Ports
 - In the left-hand panel, select **Inbound Rules**.
 - Click on **New Rule** in the right-hand panel.
-  ![](./images/3.png)
+![](./images/3.png)
 - Choose **Port** and click **Next**.
 - Select **TCP** or **UDP**, and enter the port number.
 - Click **Next**, select **Block the connection**, and click **Next** again.
