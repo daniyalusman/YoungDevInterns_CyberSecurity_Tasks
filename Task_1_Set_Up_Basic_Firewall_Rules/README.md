@@ -10,7 +10,7 @@ Set rules to block or allow specific applications or ports.
 - Navigate to the **Control Panel**.
 - Click on **System and Security**.
 - Select **Windows Defender Firewall** to open the firewall settings.
-!(./images/1.png)
+![](./images/1.png)
 
 ### 2. Access Advanced Settings
 - On the left-hand panel, click on **Advanced Settings**.
